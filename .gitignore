@@ -16,7 +16,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+*.sqllite3
 # =========================
 # Operating System Files
 # =========================
